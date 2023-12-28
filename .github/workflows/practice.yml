@@ -1,4 +1,4 @@
-name: React Demo Workflow
+name: Practice
 on: push
 jobs:
   lint:
